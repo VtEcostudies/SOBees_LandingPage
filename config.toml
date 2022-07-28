@@ -22,7 +22,8 @@ title = "VAL - State of Biodiversity"
     description = "Vermont Center for Ecostudies' State of Biodiversity Report"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-    favicon = "images/VCE_logo_vertical_RGB_transparent.png"
+    #favicon = "images/VCE_logo_vertical_RGB_transparent.png"
+    favicon = "images/vce_favicon.png"
 
     # These "images" are used for the structured data templates. This will show up, when
     # services like Twitter or Slack want to generate a preview of a link to your site.
