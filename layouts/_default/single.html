@@ -1,13 +1,14 @@
-{{ define "main"}}
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <div class="text-center">
-            <h1>{{ .Site.Title}}</h1>
-            <h2>{{ .Params.subtitle }}</h2>
-            </div>
+{{ define "main" }}
+  <main class="content page-template page-{{ .Slug }}" role="main">
+    <article class="post page">
+      <header class="post-header">
+        <a id="blog-logo" href="{{ "/" | relURL }}">
+        </a>
+      </header>
+      <h1 class="post-title">{{ .Title }}</h1>
+      <section class="post-content">
         {{ .Content }}
-        </div>
-    </div>
-</div>
+      </section>
+    </article>
+  </main>
 {{ end }}

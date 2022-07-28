@@ -588,10 +588,12 @@ a.fn-item.active {
 
 .post-title {
   margin: 0;
+  text-align: center;
 }
 
 .post-title a {
   text-decoration: none;
+  text-align: center;
 }
 
 .post-excerpt p {
