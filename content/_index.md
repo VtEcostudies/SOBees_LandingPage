@@ -1,5 +1,5 @@
 ---
-header_image: "images/Agapostemon_sericeus.jpeg"
-header_headline: "State of Biodiversity Report"
-header_subheadline: "State of Biodiversity 2022"
+header_image: "images/Bombus-bimaculatus.jpg"
+header_headline: "State of Bees Report"
+header_subheadline: "State of Bees 2022"
 ---

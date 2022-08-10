@@ -1,4 +1,4 @@
-baseURL = 'https://vtecostudies.github.io/SOB_website'
+baseURL = 'https://vtecostudies.github.io/SOBees_website'
 languageCode = 'en-us'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "VAL - State of Biodiversity"
+title = "VAL - State of Bees"
 
 
 [params]
@@ -19,7 +19,7 @@ title = "VAL - State of Biodiversity"
     copyright = "© [Vermont Center for Ecostudies](https://vtecostudies.org/)"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Vermont Center for Ecostudies' State of Biodiversity Report"
+    description = "Vermont Center for Ecostudies' State of Bees Report"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     #favicon = "images/VCE_logo_vertical_RGB_transparent.png"
@@ -34,7 +34,7 @@ title = "VAL - State of Biodiversity"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "State of Biodiversity"
+    title = "State of Bees"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
