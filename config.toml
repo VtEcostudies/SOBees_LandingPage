@@ -12,6 +12,10 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "VAL - State of Bees"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
