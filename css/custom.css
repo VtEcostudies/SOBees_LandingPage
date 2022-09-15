@@ -577,8 +577,8 @@ a.fn-item.active {
   z-index: 1;
   width: 0;
   height: 0;
-  border-left: 60px solid transparent;
-  border-right: 60px solid transparent;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
   border-top: 50px solid #f2efe8;
   border-radius: 25px;
 }
