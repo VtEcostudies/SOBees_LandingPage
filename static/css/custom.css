@@ -529,7 +529,7 @@ ul li {
 .post {
   position: relative;
   width: 95%;
-  /*max-width: 700px; */
+  max-width: 100%; /*700px; */
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
