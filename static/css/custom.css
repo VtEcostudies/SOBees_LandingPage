@@ -449,7 +449,7 @@ ul li {
 /* Creates a responsive wrapper that makes our content scale nicely */
 .inner {
   position: relative;
-  width: 80%;
+  width: 95%;
   max-width: 700px;
   margin: 0 auto;
 }
