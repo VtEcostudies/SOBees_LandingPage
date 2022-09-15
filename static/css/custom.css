@@ -529,11 +529,11 @@ ul li {
 .post {
   position: relative;
   width: 95%;
-  max-width: 100%; /*700px; */
+  max-width: 95%; /*700px; */
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
-  height: 90%;
+  height: 98%;
   word-break: break-word;
   hyphens: auto;
 }
@@ -577,8 +577,8 @@ a.fn-item.active {
   z-index: 1;
   width: 0;
   height: 0;
-  border-left: 50px solid transparent;
-  border-right: 30px solid transparent;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
   border-top: 50px solid #f2efe8;
   border-radius: 25px;
 }
