@@ -528,8 +528,8 @@ ul li {
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
   position: relative;
-  width: 80%;
-  max-width: 700px;
+  width: 95%;
+  /*max-width: 700px; */
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
