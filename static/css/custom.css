@@ -515,7 +515,7 @@ ul li {
 }
 
 .post-holder {
-  width: 100%;
+  width: 95%;
   height: 100%;
   background: #f2efe8;
   position: relative;
@@ -1019,7 +1019,7 @@ a.fn-item.active {
 
   .post {
     width: auto;
-    margin-left: 16px;
+    margin-left: 40px;
     margin-right: 16px;
     font-size: 0.8em;
     line-height: 1.6em;
