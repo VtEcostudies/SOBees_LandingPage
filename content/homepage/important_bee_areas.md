@@ -1,7 +1,7 @@
 ---
 title: "Important Bee Areas"
 header_menu: true
-weight: 3
+weight: 4
 ---
 
 <div style="width:100%; height:100%">
