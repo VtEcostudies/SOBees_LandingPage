@@ -1,7 +1,5 @@
 ---
 header_image: "images/bee-on-flower-animation.gif"
-header_headline: "State of Bees Vermont"
+header_headline: "State of Vermont's Wild Bees"
 header_subheadline: "State of Bees 2022"
 ---
-
-![VCE logo](images/VCE_logo_vertical_RGB_transparent.png)

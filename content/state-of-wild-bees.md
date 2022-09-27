@@ -1,7 +1,5 @@
 ---
-headless: true
-title: "The State of Vermont Bees"
-weight: 1
+title: 'State of Wild Bees'
 ---
 
 ## Current Knowledge

@@ -4,7 +4,6 @@ header_menu: true
 weight: 6
 ---
 
-<div style="width:100%; height:100%">
-  <iframe src="https://missions.vtatlasoflife.org/ImportantBeeAreas.html" height="100%" width="100%" allowtransparency="true">
-  </iframe>
-</div>
+Several locations throughout Vermont harbor unique and interesting bee communities. Some of these locations we're calling "Important Bee Areas" or IBeeA's for short. 
+
+<iframe src="https://missions.vtatlasoflife.org/ImportantBeeAreas.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:700px;width:100%;border:none;overflow:hidden;"></iframe>

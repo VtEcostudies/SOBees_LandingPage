@@ -1,7 +1,7 @@
 ---
-headless: true
-title: "Current Knowledge"
+title: 'Current Knowledge'
 ---
+
 Systematic inventorying of wild bees in Vermont is very new. Prior to 2012, all bee studies were either haphazard or limited in scope and duration. In 2012 the Vermont Bumble Bee Atlas (VBBA) began a multi-year effort to assess the statewide status of the 17 Bumble Bee (Bombus) species historically known from VT. Seven years later, the Vermont Wild Bee Survey (VWBS) expanded on this effort to the other 35+ genera of wild bees. Both projects amassed more than ten thousand occurrence records which provide the first comprehensive, statewide baseline. 
 
 Both the VBBA and the later the VWBS also combed through museum specimens and other historical records to piece together a picture of the historical bee community in the state. The earliest known records are from the second half of the 19th century, but more than half the 350+ species in the state were not recorded prior to 1960. 
