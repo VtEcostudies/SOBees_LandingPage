@@ -31,8 +31,6 @@ weight: 1
 <div id="myDIV">
 <div> <img alt="Bombus borealis" src="images/Bombus-borealis.jpg"> </div>
 
-
-
 <div>
 Bees (<i>Hymenoptera, Epifamily Anthophila</i>) are a diverse and ecologically important insect group, with <b>over 350 species in Vermont</b> including parasitic, solitary, and social species. As one of the major pollinating taxa, they provide crucial ecological and agricultural services. 
 
@@ -41,10 +39,7 @@ High-profile declines in a small number of species has led to concern about coll
 [Read more information](state-of-wild-bees)
 
 Also this [stuff](current-knowledge)
-
 </div>
-
 </div>
-
 
 
