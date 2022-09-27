@@ -450,7 +450,7 @@ ul li {
 .inner {
   position: relative;
   width: 95%;
-  max-width: 700px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -515,7 +515,7 @@ ul li {
 }
 
 .post-holder {
-  width: 95%;
+  width: 100%;
   height: 100%;
   background: #f2efe8;
   position: relative;
@@ -526,10 +526,10 @@ ul li {
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
-.post {
+/*.post {
   position: relative;
   width: 95%;
-  max-width: 95%; /*700px; */
+  max-width: 95%; 
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
@@ -537,6 +537,19 @@ ul li {
   word-break: break-word;
   hyphens: auto;
 }
+*/
+.post {
+  position: relative;
+  width: 90%;
+  max-width: 95%;
+  margin: 0rem auto;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+  height: 70%;
+  word-break: break-word;
+  hyphens: auto;
+}
+
 
 /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
@@ -587,13 +600,15 @@ a.fn-item.active {
 }
 
 .post-title {
-  margin: 0;
-  text-align: center;
+  margin: 10%
+  text-align: left;
+  text-justify: left;
 }
 
 .post-title a {
   text-decoration: none;
-  text-align: center;
+  text-align: left;
+  margin-left: 10%
 }
 
 .post-excerpt p {
@@ -681,13 +696,14 @@ a.fn-item.active {
 /* Insert some mad padding up in the header for better spacing */
 .post-template .post-header {
   padding: 60px 0;
+  text-align: left;
 }
 
 /* Keep large images within the bounds of the post-width */
 .post-content img {
   display: block;
   max-width: 100%;
-  margin: 0 auto;
+  margin: 50px auto;
 }
 
 /* The author credit area after the post */
@@ -1019,7 +1035,7 @@ a.fn-item.active {
 
   .post {
     width: auto;
-    margin-left: 40px;
+    margin-left: 16px;
     margin-right: 16px;
     font-size: 0.8em;
     line-height: 1.6em;
