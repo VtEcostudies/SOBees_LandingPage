@@ -180,12 +180,11 @@ a {
 }
 
 a:hover {
-  color: #86c440;
+  color: #778833;
 }
-
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: #224422;
   border-radius: 6px;
   -webkit-border-radius: 6px;
   color: white;
@@ -542,7 +541,7 @@ ul li {
   position: relative;
   width: 90%;
   max-width: 95%;
-  margin: 0rem auto;
+  margin: 0rem auto auto 10%;
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;
@@ -579,14 +578,15 @@ a.fn-item:hover {
   color: #9fd067;
 }
 a.fn-item.active {
-  color: #86c440;
+  /*color: #86c440;*/
+  color: #099220;
   opacity: 1;
 }
 
 .post-after {
   position: absolute;
   bottom: -40px;
-  right: 6%;
+  right: 20%;
   z-index: 1;
   width: 0;
   height: 0;
@@ -600,7 +600,7 @@ a.fn-item.active {
 }
 
 .post-title {
-  margin: 10%
+  margin: 15%
   text-align: left;
   text-justify: left;
 }
@@ -608,7 +608,7 @@ a.fn-item.active {
 .post-title a {
   text-decoration: none;
   text-align: left;
-  margin-left: 10%
+  margin-left: 15%
 }
 
 .post-excerpt p {
