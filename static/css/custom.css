@@ -553,7 +553,7 @@ ul li {
 /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
 
-.fixed-nav {
+/*.fixed-nav {
   display: none;
   opacity: 1;
   position: fixed;
@@ -566,6 +566,19 @@ ul li {
   line-height: 130%;
   font-weight: bold;
 }
+*/
+.fixed-nav {
+  opacity: 1;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 99999;
+  background: #f2efe8;
+  width: 100%;
+  text-align: center;
+  padding: 4px;
+}
+
 a.fn-item {
   display: block;
   cursor: pointer;
@@ -600,7 +613,7 @@ a.fn-item.active {
 }
 
 .post-title {
-  margin: 15%
+  margin: 5% 5% 5% 10%
   text-align: left;
   text-justify: left;
 }
@@ -608,7 +621,7 @@ a.fn-item.active {
 .post-title a {
   text-decoration: none;
   text-align: left;
-  margin-left: 15%
+  margin-left: 50px
 }
 
 .post-excerpt p {
@@ -702,8 +715,8 @@ a.fn-item.active {
 /* Keep large images within the bounds of the post-width */
 .post-content img {
   display: block;
-  max-width: 100%;
-  margin: 50px auto;
+  max-width: 90%;
+  margin: auto 25px auto 50px;
 }
 
 /* The author credit area after the post */
@@ -990,7 +1003,7 @@ a.fn-item.active {
   }
 
   .post-template .post-header {
-    padding: 40px 0;
+    padding: 40px;
   }
 
   h1 {

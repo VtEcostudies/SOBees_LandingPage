@@ -7,14 +7,15 @@ weight: 1
 #myDIV {
   height: 95%;
   margin-left: 5%;
+  margin-right: 5%;
   display: grid;
   grid-template-columns: auto auto auto auto;
   gap: 10px;
   padding: 10px;
 }
 #myDIV div {
-  text-align: center;
-  padding: 20px 0;
+  text-align: left;
+  padding: 5px 0;
 }
 .item1 {
   grid-column: 1 / span 2;
@@ -29,16 +30,17 @@ weight: 1
 </div>
 
 <div id="myDIV">
-<div> <img alt="Bombus borealis" src="images/Bombus-borealis.jpg"> </div>
+<div> <img alt="Agapostemon virescens female" src="images/Agapostemon virescens female.jpg" style="margin: 0px"> </div>
 
 <div>
-Bees (<i>Hymenoptera, Epifamily Anthophila</i>) are a diverse and ecologically important insect group, with <b>over 350 species in Vermont</b> including parasitic, solitary, and social species. As one of the major pollinating taxa, they provide crucial ecological and agricultural services. 
+Bees (<i>Hymenoptera</i>, Epifamily <i>Anthophila</i>) are a diverse and ecologically important insect group, with <b>over 350 species in Vermont</b> including parasitic, solitary, and social species. As one of the major pollinating taxa, they provide crucial ecological and agricultural services. 
 
-High-profile declines in a small number of species has led to concern about collapse of the taxa as a whole, though our understanding of the status, threats, and even the natural history of most species is incredibly limited. 
+High-profile declines in a few species has led to concern about the collapse of the entire group, though our understanding of the status, threats, and natural history of most species is incredibly limited. 
+
 
 [Read more information](state-of-wild-bees)
 
-Also this [stuff](current-knowledge)
+
 </div>
 </div>
 
