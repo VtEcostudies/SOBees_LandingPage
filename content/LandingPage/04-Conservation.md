@@ -14,7 +14,7 @@ header_menu: true
 <div>
 Through a combination of modeling and field work, we have identified areas of the state that support unique, threatened and/or highly diverse communities of bees. While many of these sites are conserved, rare bees are generally not included in management plans and could potentially benefit from targeted management of foraging and nesting resources. 
 
-<a href="">Read additional conservation information ...</a>
+<a href="https://github.com/VtEcostudies/SoBees_Conservation.git">Read additional conservation information ...</a>
 </div>
 <div>
 <img src="images/Bombus-griseocollis.jpg" alt="Bombus griseocollis" style="margin: 0px height: 700px; width: 700px">

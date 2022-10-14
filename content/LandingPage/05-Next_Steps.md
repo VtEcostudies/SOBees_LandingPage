@@ -16,6 +16,6 @@ header_menu: true
 <div>
 Our understanding of Vermont’s bees will never be complete. Additional surveying will certainly find new species and the changing landscape and climate of the state will bring new opportunities and challenges. Despite many remaining questions, enough is known that conservation efforts can be effectively prioritized and implemented. Collaboration between the researchers, conservation organizations, landowners, consumers, and even honey bee keepers will be necessary to effectively protect the incredible diversity of this important fauna. 
 
-<a href="">Further information about Next Steps ...</a>
+<a href="https://github.com/VtEcostudies/SoBees_Next_Steps.git">Further information about Next Steps ...</a>
 </div>
 </div>
