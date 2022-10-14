@@ -9,31 +9,12 @@ weight: 1
 header_menu: false
 ---
 
-<style>
-#myDIV {
-  height: 95%;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  padding: 10px;
-}
-#myDIV div {
-  text-align: left;
-  padding: 5px 0;
-}
-.item1 {
-  grid-column: 1 / span 2;
-}
-</style>
-
 <br>
 
 <div class="lead"><h4> 25% of Vermont's native, wild bees need significant conservation action </h4> 
 </div>
 
-<div id="myDIV">
+<div class="doubleColumn">
 <div> <img alt="Agapostemon virescens female" src="images/Agapostemon virescens female.jpg" style="margin: 0px"> </div>
 
 <div style="padding: 5%">
