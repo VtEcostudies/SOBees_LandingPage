@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="inner">
+    {{ with .Site.Params.copyright }}
+      <section class="copyright">{{ . | markdownify }}</section>{{ end }}
+
+    <section>{{ echoParam .Site.Params "hidebyline" }}</section>
+    {{ if ne .Site.Params.hidedesignbyline true }}
+      <section>
+        <p style="text-align:center"><b>Partners:</b><br></p>
+        <a href=https://vtfishandwildlife.com/ target=blank_><img src="images/VFW-Logo-RGB_transparent-background_0.png" style="height:50px; width:50px"></a>
+        Sarah K. de Coizart Perpetual Charitable Trust
+        Missisquoi National Wildlife Refuge
+        UVM Apis Fund
+        UVM (Gund)?
+
+         <br>
+      </section>{{ end }}
+
+  </div>
+</footer>
