@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ $headless := .Site.GetPage "/LandingPage" }}
+{{ $headless := .Site.GetPage "/Current_Knowledge" }}
 {{ $sections := $headless.Resources.ByType "page" }}
 {{ $sections := cond .Site.BuildDrafts $sections (where $sections "Draft" "==" false) }}
 <header id="site-head" {{ with .Params.header_image }}style="background-image: url({{ . }})"{{ end }}>
