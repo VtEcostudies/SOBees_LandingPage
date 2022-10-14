@@ -549,7 +549,34 @@ ul li {
   hyphens: auto;
 }
 
+.caption {
+  font-size: 11pt;
+  line-height: 11pt;
+  width: 0;
+  min-width: 100%;
+  text-align: center;
+}
 
+.lead {
+  display:flex;  
+  justify-content: center;
+}
+
+.doubleColumn {
+  height: 95%;
+  margin-left: 5%;
+  margin-right: 5%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+  column-count: 2;
+}
+
+.doubleColumn div{
+  text-align: left;
+  padding: 5px 0;
+}
 /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
 
@@ -577,6 +604,7 @@ ul li {
   width: 100%;
   text-align: center;
   padding: 4px;
+  font-size: 14pt;
 }
 /*
 a.fn-item {
@@ -590,7 +618,9 @@ a.fn-item {
   margin-left: 10px;
   cursor: pointer;
   opacity: 0.7;
+  font-size: 14pt;
 }
+
 .white {
   color: white;
 }
