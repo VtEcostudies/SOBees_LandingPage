@@ -528,7 +528,7 @@ ul li {
 /*.post {
   position: relative;
   width: 95%;
-  max-width: 95%; 
+  max-width: 95%;
   margin: 0rem auto;
   padding-bottom: 4rem;
   padding-top: 4rem;
@@ -620,6 +620,7 @@ a.fn-item {
   opacity: 0.7;
   font-size: 14pt;
 }
+
 .white {
   color: white;
 }
