@@ -1,5 +1,5 @@
-#baseURL = 'https://vtecostudies.github.io/SoBees_LandingPage'
-baseURL = 'stateofbees.vtatlasoflife.org'
+baseURL = 'https://vtecostudies.github.io/SoBees_LandingPage'
+#baseURL = 'stateofbees.vtatlasoflife.org'
 languageCode = 'en-us'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
