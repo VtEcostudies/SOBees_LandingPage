@@ -15,6 +15,6 @@ Thanks to the efforts of thousands of community scientists and biologists, <b>Ve
 </div>
 <br>
 <br>
-<a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/">Continue reading ...</a>
+<a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target="blank_">Continue reading ...</a>
 <br>
 

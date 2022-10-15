@@ -12,9 +12,9 @@ header_menu: true
 
 <div class="doubleColumn">
 <div>
-Through a combination of modeling and field work, we have identified areas of the state that support unique, threatened and/or highly diverse communities of bees. While many of these sites are conserved, rare bees are generally not included in management plans and could potentially benefit from targeted management of foraging and nesting resources. 
+Armed with a robust assessment of the status and distribution of most wild bee species in Vermont, we have identified important habitats and areas with unique and diverse bee communities. Some of these areas we have proposed as Important Bee Areas, priority locations for protection and bee-focused land management.
 
-<a href="https://github.com/VtEcostudies/SoBees_Conservation.git">Read additional conservation information ...</a>
+<a href="https://vtecostudies.github.io/SoBees_Conservation/" target="blank_">Read additional conservation information ...</a>
 </div>
 <div>
 <img src="images/Bombus-griseocollis.jpg" alt="Bombus griseocollis" style="margin: 0px height: 700px; width: 700px">
