@@ -14,8 +14,9 @@ header_menu: true
 <img src="images/Xylocopa virginica.jpg" alt="Xylocopa_virginica" style="margin: 0px height: 700px; width: 700px">
 </div>
 <div>
-Our understanding of Vermont’s bees will never be complete. Additional surveying will certainly find new species and the changing landscape and climate of the state will bring new opportunities and challenges. Despite many remaining questions, enough is known that conservation efforts can be effectively prioritized and implemented. Collaboration between the researchers, conservation organizations, landowners, consumers, and even honey bee keepers will be necessary to effectively protect the incredible diversity of this important fauna.
+Our understanding of Vermont’s wild bees is a work in progress. Additional surveys, population monitoring, adaptive management, and a better understanding of their natural history is sorely needed. Over a century of information gleaned from historic natural history collections and surveys conducted across the state during the last decade provide us with a rich baseline to prioritize and implement conservation actions now. Collaboration between scientists, public agencies, conservation organizations, land owners, land managers, and even honeybee keepers will be necessary to effectively protect Vermont’s diverse bee fauna now and for future generations.
 
-<a href="https://vtecostudies.github.io/SoBees_Next_Steps">Further information about Next Steps ...</a>
+<a href="https://vtecostudies.github.io/SoBees_Next_Steps">Learn more about what we can do ...</a>
 </div>
 </div>
+
