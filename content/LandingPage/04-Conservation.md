@@ -10,21 +10,22 @@ header_menu: true
 ---
 
 
-<div class="row" style="padding-top:20px;">
-<div class="col-lg-4">
+<div class="doubleColumn">
+<div>
 Armed with a robust assessment of the status and distribution of most wild bee species in Vermont, we have identified important habitats and areas with unique and diverse bee communities. Some of these areas we have proposed as Important Bee Areas, priority locations for protection and bee-focused land management.
 
-<img alt="Andrean-dunningi" src="images/Andrena-dunningi.jpeg" style="width:100%; padding-top:20px; padding-left:0px; margin-left:0px;">
+<br>
+<br>
+
+<img alt="Andrean-dunningi" src="images/Andrena-dunningi.jpeg" style="width:100%; align: center">
 
 <a href="https://vtecostudies.github.io/SoBees_Conservation/" target="blank_">Read additional conservation information ...</a>
 </div>
 
-<div  class="col-lg-8 h_iframe">
-<iframe style="height:760px;max-width:750px;min-width:500px;padding:20px;" src="https://missions.vtatlasoflife.org/Bee_Div_leaflet.html" frameBorder="0" allowtransparency="true">
-</iframe>
-
-<!-- onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' -->
-
+<div style="column-width:100%; width: 100%">
+<iframe src="https://missions.vtatlasoflife.org/Bee_Div_leaflet.html" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:700px;width:700px;border:none;overflow:hidden;"></iframe>
 </div>
 
 </div>
+
+

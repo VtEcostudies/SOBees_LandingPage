@@ -11,7 +11,7 @@ header_menu: true
 <p class="caption">Yearly tally of native bee species observed in Vermont</p>
 <br>
 <div style="width: 95%">
-Thanks to the efforts of thousands of community scientists and biologists, <b>Vermont is one of the few states that has a relatively complete assessment of the bee fauna</b>. Together, we’ve recorded wild bee species in nearly every one of the 255 towns, allowing us to <b>develop a conservation watch list</b>, identify regions of <a href="https://vtecostudies.github.io/SoBees_Conservation/" target=blank_>unique bee communities</a> and designate <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target=blank_>important bee areas</a> to help target conservation actions. Despite our collective efforts, we still lack robust population monitoring and key natural history information for many bee species.
+Thanks to the efforts of thousands of community scientists and biologists, <b>Vermont is one of the few states that has a relatively complete assessment of the bee fauna</b>. Together, we’ve recorded wild bee species in nearly every one of the 255 towns, allowing us to <b>develop a conservation watch list</b>, identify regions of <a href="https://vtecostudies.github.io/SoBees_Conservation/" target=blank_><u>unique bee communities</u></a> and designate <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target=blank_><u>important bee areas</u></a> to help target conservation actions. Despite our collective efforts, we still lack robust population monitoring and key natural history information for many bee species.
 </div>
 <br>
 <br>

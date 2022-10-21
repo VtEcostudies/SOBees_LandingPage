@@ -21,5 +21,9 @@ header_menu: false
 
 With <b>over 350 species in Vermont</b>, wild bees are a diverse and ecologically important insect group. As one of the most important groups of pollinators, bees provide crucial ecological and agricultural services. Recent population declines that are known for a few species have led to concern about a possible collapse of all bee populations. But our understanding of the conservation status, threats, and even the natural history of many species is still in its infancy. Over the past decade, thousands of community scientists and professional biologists have helped us to survey wild bees across Vermont, allowing us <i>for the first time</i> to assess their conservation status.
 
+<br>
+<br>
+<a href="https://www.scientificamerican.com/article/the-problem-with-honey-bees/" target="blank_"><u>The Problem with Honey Bees</u></a>
+
 </div>
 </div>
