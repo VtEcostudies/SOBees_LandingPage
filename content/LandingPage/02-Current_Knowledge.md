@@ -11,9 +11,10 @@ header_menu: true
 <p class="caption">Yearly tally of native bee species observed in Vermont</p>
 <br>
 <div style="width: 95%">
-Thanks to the efforts of thousands of community scientists and biologists, <b>Vermont is one of the few states that has a relatively complete assessment of the bee fauna</b>. Together, we’ve recorded wild bee species in nearly every one of the 255 towns, allowing us to <b>develop a conservation watch list</b>, identify regions of <a href="https://vtecostudies.github.io/SoBees_Conservation/" target=blank_><u>unique bee communities</u></a> and designate <a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target=blank_><u>important bee areas</u></a> to help target conservation actions. Despite our collective efforts, we still lack robust population monitoring and key natural history information for many bee species.
+Thanks to the efforts of thousands of community scientists and biologists, Vermont is one of the few states that has a relatively complete assessment of the bee fauna. Together, we’ve recorded wild bee species in every county and all biophysical regions in the state. <b>Nearly half of the 352 bee species and a quarter of the more than 50,000 occurrence records came from community scientists!</b> Over 20,000 observation records of bee-plant interactions revealed that 225 bee species visited at least 342 different plant genera in 92 families. We have transformed historic museum collections and all of our modern surveys into digital datasets that are open and freely available online from the <a href="https://val.vtecostudies.org/" target="blank_"><u>Vermont Atlas of Life</u></a>. Despite our collective efforts, we still lack robust population monitoring and key natural history information for many bee species.
+
 </div>
 <br>
 <br>
-<a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target="blank_">Continue reading ...</a>
+<a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target="blank_">Learn more about our discoveries ...</a>
 <br>
