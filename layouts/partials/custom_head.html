@@ -3,3 +3,5 @@
      your local /layouts/partials-directory.
      Its content will appear before the closing </head>-tag -->
  <link rel="stylesheet" href='{{ "css/custom.css" | absURL }}'>
+ 
+ {{ template "_internal/google_analytics.html" . }} <!-- VCE add this here maybe to enable GA4 for site? -->
