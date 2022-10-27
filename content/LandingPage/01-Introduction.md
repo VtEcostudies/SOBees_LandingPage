@@ -14,15 +14,19 @@ header_menu: false
 </div>
 
 <div class="doubleColumn">
-<div> <img alt="Agapostemon virescens female" src="images/Agapostemon virescens female.jpg" style="margin: 0px"> </div>
+
+<div> <img alt="Agapostemon virescens female" src="images/Agapostemon virescens female.jpg" style="margin: 0px; vertical-align: middle;"> </div>
 
 <div style="padding: 5%">
 
 With <b>over 350 species in Vermont</b>, wild bees are a diverse and ecologically important insect group. As one of the most important groups of pollinators, bees provide crucial ecological and agricultural services. Recent population declines that are known for a few species have led to concern about a possible collapse of all bee populations. But our understanding of the conservation status, threats, and even the natural history of many species is still in its infancy. Over the past decade, thousands of community scientists and professional biologists have helped us to survey wild bees across Vermont, allowing us <i>for the first time</i> to assess their conservation status.
 
-<br>
-<br>
-This report addresses current knowledge about the conservation status of wild bees. The domestic Western Honey Bee is important to agriculture and the economy, but can also pose a threat to wild bees. Learn more about<a href="https://www.scientificamerican.com/article/the-problem-with-honey-bees/" target="blank_"><u> The Problem with Honey Bees</u></a>
+<div style="padding: 8px; background-color: rgb(0, 96, 84); border-radius: 2.5px 2.5px 2.5px 2.5px;">
+<p style="font-size: 13pt; color: white">This report addresses current knowledge about the conservation status of wild bees. The domestic Western Honey Bee is important to agriculture and the economy, but can also pose a threat to wild bees. Learn more about<a href="https://www.scientificamerican.com/article/the-problem-with-honey-bees/" target="blank_"><u> The Problem with Honey Bees</u></a></p>
+<div>
 
 </div>
 </div>
+
+
+
