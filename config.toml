@@ -46,6 +46,9 @@ title = "Vermont's State of Bees"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "Vermont, State, Bees, State Of Bees, Conservation, Science"
 
+    # This isn't working as internal Hugo feature, but this is the GA4 Measurement ID for the stream
+    # - landingPage
+    # See /layouts/partials/custom_footer.html for gtag code
     googleAnalytics = "G-EGQH57H0XF"
