@@ -541,7 +541,7 @@ ul li {
   position: relative;
   width: 90%;
   max-width: 95%;
-  margin: 0rem auto auto 10%;
+  margin: auto; /*0rem auto auto 10%;*/
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;

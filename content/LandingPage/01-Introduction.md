@@ -15,7 +15,7 @@ header_menu: false
 
 <div class="doubleColumn">
 
-<div> <img alt="Agapostemon virescens female" src="https://stateofbees.vtatlasoflife.org/images/Agapostemon virescens female.jpg" style="margin: 0px; vertical-align: middle;"> </div>
+<div style="margin: 10% auto auto auto"> <img alt="Agapostemon virescens female" src="https://stateofbees.vtatlasoflife.org/images/Agapostemon virescens female.jpg" style="margin: 0px; vertical-align: middle;"> </div>
 
 <div style="padding: 5%">
 
