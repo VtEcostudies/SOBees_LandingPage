@@ -15,5 +15,5 @@ Thanks to the efforts of thousands of community scientists and biologists, Vermo
 </div>
 <br>
 <br>
-<a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target="blank_">Learn more about our discoveries ...</a>
+<p style="font-size: 1.25em"><a href="https://vtecostudies.github.io/SoBees_Current_Knowledge/" target="blank_"><u>Learn more about our discoveries ...</u></a></p>
 <br>

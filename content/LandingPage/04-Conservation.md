@@ -17,7 +17,8 @@ Armed with a robust assessment of the status of most wild bee species in Vermont
 
 <!-- <img alt="Andrena dunningi" src="https://stateofbees.vtatlasoflife.org/images/Andrena-dunningi.jpeg" style="width:100%; align: center"> -->
 
-<a href="https://vtecostudies.github.io/SoBees_Conservation/" target="blank_">Read additional conservation information ...</a>
+<br>
+<p style="font-size: 1.25em"><a href="https://vtecostudies.github.io/SoBees_Conservation/" target="blank_"><u>Read additional conservation information ...</u></a></p>
 </div>
 
 <div style="column-width:100%; width: 100%">
