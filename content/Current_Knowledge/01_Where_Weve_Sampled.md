@@ -12,7 +12,7 @@ header_menu: true
 </div>
 
 <div class="doubleColumn">
-<div> <img alt="Biophysical_rarefraction_bees" src="images/Biophysical_regions_SpeciesAccum_bees.png" style="margin: 0px"> </div>
+<div> <img alt="Biophysical_rarefraction_bees" src="images/Biophysical_regions_SpeciesAccum_bees_bee.png" style="margin: 0px"> </div>
 <div>
 Bees have been recorded in every biophysical region and nearly every town (n = 253 of 255). However, sampling effort is far from uniform across the state. Recent sampling has been heavily concentrated around the population centers in Chittenden and Washington counties, while historical collecting was biased geographically by a small number of prolific collectors based in East Dorset, Middlebury, and Castleton.
 
