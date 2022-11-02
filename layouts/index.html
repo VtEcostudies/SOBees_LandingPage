@@ -29,6 +29,7 @@
                 <section class="post-content">
                     {{ .Content }}
                 </section>
+                {{- partial "custom_links.html" . -}} <!-- VCE added this. Note: if add inside some divs, here, doesn't work. -->
             </article>
             <div class='post-after'></div>
         </div>
