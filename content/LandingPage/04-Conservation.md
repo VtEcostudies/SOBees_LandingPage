@@ -4,7 +4,7 @@ weight: 4 # This determines the order of these markdown pages, as sections, in t
 header_menu: true # If "header_menu" is true, then a button linking to this section will be placed into the header menu at the top of the homepage.
 ---
 <div class="lead">
-  <h4>55 species and 12 Important Bee Areas have been identified as the highest conservation priorities</h4>
+  <h4>55 species and 12 Important Bee Areas identified as high conservation priorities</h4>
 </div>
 
 
