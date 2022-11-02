@@ -1,22 +1,23 @@
 ---
-title: 'Threats'
-weight: 3
+title: 'Threats' # This determines the order of these markdown pages, as sections, in the Hugo-scroll display
+weight: 3 # If "header_menu" is true, then a button linking to this section will be placed into the header menu at the top of the homepage.
 header_menu: true
 ---
-<br>
-<div class="lead" style="align:center;"><h4>Anthroprogenic change threatens many of Vermont’s native bees</h4></div>
-<br>
 
-<div class="doubleColumn">
-<div>
-While declines in domesticated Western Honeybee survival have received a lot of attention, many native wild bees may also be in serious trouble. The causes of population declines are not fully understood and vary widely by species; however, the myriad of threats include land use change and habitat destruction, introduced species, pesticides, and climate change.  
-
-<br> 
-<br>
- 
-<p style="font-size: 1.25em"><a href="http://vtecostudies.github.io/SoBees_Threats" target="blank_"><u>Learn more about threats...</u></a></p>
+<div class="lead">
+  <h4>Anthroprogenic change threatens many of Vermont’s native bees</h4>
 </div>
 
-<div> <img alt="Crab_spider_predates_bee" src="https://stateofbees.vtatlasoflife.org/images/Crab_spider_predates_bee.jpg" style="margin: 0px height: 700px; width: 700px"></div>
+<div class="row">
+  <div class="col-lg-6">
+    <p>
+      While declines in domesticated Western Honeybee survival have received a lot of attention, many native wild bees may also be in serious trouble. The causes of population declines are not fully understood and vary widely by species; however, the myriad of threats include land use change and habitat destruction, introduced species, pesticides, and climate change.
+    </p>
+    <a class="more-info-link" href="http://vtecostudies.github.io/SoBees_Threats">Learn more about threats...</a>
+  </div>
 
+  <div class="col-lg-6">
+    <img src="https://stateofbees.vtatlasoflife.org/images/Crab_spider_predates_bee.jpg" alt="Crab_spider_predates_bee" title="Crab spider predates bee">
+    <label class="image-caption">Crab spider predates bee</label>
+  </div>
 </div>
