@@ -27,10 +27,3 @@ With <b>over 350 species in Vermont</b>, wild bees are a diverse and ecologicall
 
 </div>
 </div>
-  
-<div>
-  Hellow Werld!
-  </div>
-
-
-
