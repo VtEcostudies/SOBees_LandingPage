@@ -11,9 +11,7 @@ header_menu: true # If "header_menu" is true, then a button linking to this sect
 <div class="row">
   <div class="col-lg-12">
     <img src="https://stateofbees.vtatlasoflife.org/images/Native_species_totals_vectors.png" alt="Native_bee_species_time_VT" title="Native_bee_species_time_VT">
-    <p class="caption" style="margin: 1px; 10% 1px 4%">
-      Yearly tally of native bee species observed in Vermont
-    </p>
+    <label class="image-caption">Yearly tally of native bee species observed in Vermont</label>
   </div>
 </div>
 

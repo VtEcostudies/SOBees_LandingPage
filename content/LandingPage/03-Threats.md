@@ -18,6 +18,6 @@ header_menu: true
 
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Crab_spider_predates_bee.jpg" alt="Crab_spider_predates_bee" title="Crab spider predates bee">
-    <label class="image-caption">Crab spider predates bee</label>
+    <label class="image-caption">Flower crab spider (<i>Misumena vatia</i>) predates bee</label>
   </div>
 </div>

@@ -32,7 +32,7 @@ header_menu: false # If "header_menu" is true, then a button linking to this sec
 <div class="row">
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Agapostemon virescens female.jpg"  alt="Agapostemon virescens female" title="Agapostemon virescens female">
-    <label class="image-caption">Agapostemon virescens female</label>
+    <label class="image-caption">Striped-sweat bee (<i>Agapostemon virescens</i>) female © Spencer Hardy</label>
   </div>
 
   <div class="col-lg-6">
