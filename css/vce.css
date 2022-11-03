@@ -1,0 +1,91 @@
+/* VCE styles */
+
+/* Overide hugo scroll styles for site */
+
+/* override anchor tag default appearance */
+a {
+  text-decoration: underline;
+}
+
+/* Overide img as they appear in bootstrap grids */
+.post-content img {
+  margin-top: 30px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  max-width: 100%;
+}
+
+/* Overide section titles */
+.post-title {
+  margin: 0% 0% 2%; 0%;
+  text-align: left;
+  text-justify: left;
+}
+
+/* End hugo overrides */
+
+.more-info-link {
+  font-size: 1.25em;
+  text-decoration: underline;
+}
+
+/* VCE image caption style */
+.image-caption {
+  font-size: 0.75em;
+}
+
+/* Another VCE caption style */
+.caption {
+  font-size: 11pt;
+  line-height: 11pt;
+  width: 0;
+  min-width: 100%;
+  text-align: center;
+}
+
+/* This used to get iframe to stretch to container, with and without bootstrap */
+.h_iframe {width:100%; height: 100%;}
+.h_iframe iframe {width:100%; height:100%; margin:0px; padding:0px; background:none transparent;}
+
+/* The green box around text to highlight it */
+.callout-box {
+ padding: 8px;
+ background-color: rgb(0, 96, 84);
+ border-radius: 2.5px 2.5px 2.5px 2.5px;
+}
+
+/* The text in the green box */
+.callout-text {
+  font-size: 13pt;
+  color: white;
+  margin: 10px;
+}
+
+.lead {
+  display:flex;
+  justify-content: center;
+}
+
+.lead h1, .lead h2, .lead h3, .lead h4, .lead h5, .lead h6 {
+  font-weight: bold;
+  text-align: center;
+  /* margin-top: 20px; this is redundant in LandingPage */
+  margin-bottom: 20px;
+}
+
+.doubleColumn {
+  height: 95%;
+  margin-left: 5%;
+  margin-right: 5%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+  column-count: 2;
+}
+
+.doubleColumn div{
+  text-align: left;
+  padding: 5px 0;
+}
