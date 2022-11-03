@@ -463,23 +463,6 @@ ul li {
       4. General - The main styles for the the theme
       ========================================================================== */
 
-/* VCE styles */
-
-.more-info-link {
-  font-size: 1.25em;
-  text-decoration: underline;
-}
-
-.image-caption {
-  font-size: 0.75em;
-}
-
-/* This used to get iframe to stretch to container, also with bootstrap */
-.h_iframe iframe {width:100%; height:100%; margin:0px; padding:0px; background:none transparent;}
-.h_iframe {width:100%; height: 100%;}
-
-/* end VCE styles */
-
 /* Big cover image on the home page */
 #site-head {
   position: relative;
@@ -566,46 +549,6 @@ ul li {
   hyphens: auto;
 }
 
-.caption {
-  font-size: 11pt;
-  line-height: 11pt;
-  width: 0;
-  min-width: 100%;
-  text-align: center;
-}
-
-.lead {
-  display:flex;
-  justify-content: center;
-}
-
-.lead h1, .lead h2, .lead h3, .lead h4, .lead h5, .lead h6 {
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.doubleColumn {
-  height: 95%;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  padding: 10px;
-  column-count: 2;
-}
-
-.doubleColumn div{
-  text-align: left;
-  padding: 5px 0;
-}
-
-
-/* This used to get iframe to stretch to container, also with bootstrap */
-.h_iframe iframe {width:100%; height:100%; margin:0px; padding:0px; background:none transparent;}
-.h_iframe {width:100%; height: 100%;}
-
 /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
 
@@ -679,7 +622,7 @@ a.fn-item.active {
 }
 
 .post-title {
-  margin: 0% 0% 5% 0%;
+  margin: 0% 0% 0% 0%;
   text-align: left;
   text-justify: left;
 }

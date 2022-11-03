@@ -472,7 +472,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background: #b80135 no-repeat center center;
+  background: black no-repeat center center;
   background-size: cover;
 }
 
@@ -541,47 +541,13 @@ ul li {
   position: relative;
   width: 90%;
   max-width: 95%;
-  margin: 0rem auto auto 10%;
+  margin: auto; /*0rem auto auto 10%;*/
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;
   word-break: break-word;
   hyphens: auto;
 }
-
-.caption {
-  font-size: 11pt;
-  line-height: 11pt;
-  width: 0;
-  min-width: 100%;
-  text-align: center;
-}
-
-.lead {
-  display:flex;
-  justify-content: center;
-}
-
-.doubleColumn {
-  height: 95%;
-  margin-left: 5%;
-  margin-right: 5%;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  gap: 10px;
-  padding: 10px;
-  column-count: 2;
-}
-
-.doubleColumn div{
-  text-align: left;
-  padding: 5px 0;
-}
-
-
-/* This used to get iframe to stretch to container, also with bootstrap */
-.h_iframe iframe {width:100%; height:100%; margin:0px; padding:0px; background:none transparent;}
-.h_iframe {width:100%; height: 100%;}
 
 /* Add a little circle in the middle of the border-bottom on our .post
       just for the lolz and stylepoints. */
@@ -656,7 +622,7 @@ a.fn-item.active {
 }
 
 .post-title {
-  margin: 5% 5% 5% 10%
+  margin: 0% 0% 0% 0%;
   text-align: left;
   text-justify: left;
 }

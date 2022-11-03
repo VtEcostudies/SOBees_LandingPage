@@ -3,29 +3,8 @@ title: ''
 weight: 1 # This determines the order of these markdown pages, as sections, in the Hugo-scroll display
 header_menu: false # If "header_menu" is true, then a button linking to this section will be placed into the header menu at the top of the homepage.
 ---
-<style>
-/* Overide hugo scroll img style for site */
-.post-content img {
-  margin-top: 30px;
-  margin-right: 0px;
-  margin-left: 0px;
-  margin-bottom: 0px;
-  max-width: 100%;
-}
 
-/* The green box around text to highlight it */
-.callout-box {
- padding: 8px; background-color: rgb(0, 96, 84); border-radius: 2.5px 2.5px 2.5px 2.5px;
-}
-/* The text in the green box */
-.callout-text {
-  font-size: 13pt;
-  color: white;
-  margin: 10px;
-}
-</style>
-
-<div class="lead">
+<div class="lead" style="margin-top:0px;">
   <h4> 25% of Vermont's native, wild bees need significant conservation action </h4>
 </div>
 
