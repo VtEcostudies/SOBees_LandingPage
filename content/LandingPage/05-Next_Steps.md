@@ -10,7 +10,7 @@ header_menu: true
 <div class="row">
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Xylocopa virginica.jpg" alt="Eastern Carpenter Bee (Xylocopa virginica)">
-    <label class="image-caption">Eastern Carpenter Bee (Xylocopa virginica)</label>
+    <label class="image-caption">Eastern Carpenter Bee (Xylocopa virginica) Female © Spencer Hardy</label>
   </div>
   <div class="col-lg-6">
     <p>
