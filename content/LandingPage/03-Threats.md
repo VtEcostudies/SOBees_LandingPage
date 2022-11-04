@@ -18,6 +18,6 @@ header_menu: true
 
   <div class="col-lg-6">
     <img src="https://stateofbees.vtatlasoflife.org/images/Crab_spider_predates_bee.jpg" alt="Crab_spider_predates_bee" title="Crab spider predates bee">
-    <label class="image-caption">Goldenrod crab spider (<i>Misumena vatia</i>) predates a Mining Bee (Andrena sp.) © Kent McFarland</label>
+    <label class="image-caption">Goldenrod crab spider (<i>Misumena vatia</i>) predates a Mining Bee (<i>Andrena</i> sp.) © Kent McFarland</label>
   </div>
 </div>
