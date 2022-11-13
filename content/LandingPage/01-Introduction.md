@@ -5,7 +5,7 @@ header_menu: false # If "header_menu" is true, then a button linking to this sec
 ---
 
 <div class="lead" style="margin-top:0px;">
-  <h4> 25% of Vermont's native, wild bees need significant conservation action </h4>
+  <h4> At least 55 of Vermont's native, wild bee species need significant conservation action </h4>
 </div>
 
 <div class="row">
