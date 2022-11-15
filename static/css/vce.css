@@ -1,3 +1,4 @@
+
 /* VCE styles */
 
 /* Begin overides of hugo scroll styles for site */
@@ -70,12 +71,24 @@ a {
   justify-content: center;
 }
 
-
 .lead h1, .lead h2, .lead h3, .lead h4, .lead h5, .lead h6 {
   font-weight: bold;
   text-align: center;
   /* margin-top: 20px; this is redundant in LandingPage but needed elsewhere */
   margin-bottom: 20px;
+}
+
+.ack-lead {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.citation {
+  text-align: center;
+  font-size: 12pt;
+  margin-left:15%;
+  margin-right:15%;
 }
 
 .doubleColumn {
