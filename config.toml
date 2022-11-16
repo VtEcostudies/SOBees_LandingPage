@@ -46,7 +46,7 @@ title = "State of Vermont's Wild Bees"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "Vermont, State, State Of Bees, Conservation, Science, honey bee, bumble bee, honeybee, bee, bees, bumblebee, State Ranks, Bee conservation, Important Bee Areas"
+        keywords = "Vermont, State, State Of Bees, bee, bees, honey bee, honeybee, bumble bee, bumblebee, State Ranks, Bee conservation, Conservation, Science, Important Bee Areas, Bee habitats"
 
     # This isn't working as internal Hugo feature, but this is the GA4 Measurement ID for the stream
     # - landingPage
