@@ -53,7 +53,5 @@ title = "State of Vermont's Wild Bees"
     # See /layouts/partials/custom_footer.html for gtag code
     googleAnalytics = "G-EGQH57H0XF"
 
-
-
 [sitemap]
   filename = 'static/sitemap.xml'
